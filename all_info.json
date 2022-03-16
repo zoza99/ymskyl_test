@@ -1,1 +1,3817 @@
-[{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Атом и его строение","ymit":1,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Порядок заполнения электронных орбиталей электронами и их строение","ymit":4,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Понятия электронной конфигурации, энергетических уровня и подуровня. Умение писать электронные конфигурации атомов ","ymit":29,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Понятие проскока электрона","ymit":30,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Основное состояние атома","ymit":31,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Возбужденное состояние атома","ymit":32,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Валентные электроны","ymit":54,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Неспаренные электроны","ymit":55,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Электронная конфигурация ионов","ymit":56,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"1 веб","name_ymit":"Изменение энергии ионизации атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева","ymit":60,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Умение описывать свойства химического элемента на основе его положения в Периодической системе Д.И. Менделеева","ymit":5,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Понятие валентности и валентные возможности атомов химических элементов","ymit":6,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Понятия электроотрицательности и ионизации химических элементов","ymit":7,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Понятие окислительно-восстановительных свойств","ymit":8,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Изменение радиуса атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева","ymit":33,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Изменение электроотрицательности атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева","ymit":34,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Изменение окислительных и восстановительных свойств атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева","ymit":35,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Изменение металлических и неметаллических свойств атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева","ymit":42,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Водородные соединения неметаллов и металлов и закономерности изменения их свойств исходя из их положения в Периодической системе Д.И. Менделеева","ymit":43,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Закономерности изменения свойств высших оксидов и гидроксидов в зависимости от положения элемента в Периодической системе Д.И. Менделеева","ymit":44,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Умение определять местоположение химического элемента в Периодической системе Д.И. Менделеева по его свойствам","ymit":46,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Умение определять период и группу, в которых находится химический элемент в Периодической системе Д.И. Менделеева","ymit":50,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Умение различать металлы и неметаллы в Периодической системе Д.И. Менделеева","ymit":51,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Изменение сродства к электрону атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева","ymit":53,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Умение определять возможные степени окисления и валентности элемента по положению химического элемента в Периодической системе Д.И. Менделеева","ymit":57,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"2 веб","name_ymit":"Изменение энергии ионизации атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева","ymit":60,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"3 веб","name_ymit":"Понятие валентности и валентные возможности атомов химических элементов","ymit":6,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"3 веб","name_ymit":"Понятия электроотрицательности и ионизации химических элементов","ymit":7,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"3 веб","name_ymit":"Случаи несовпадения валентности и степени окисления","ymit":36,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"3 веб","name_ymit":"Степень окисления элементов. Окислитель и восстановитель. Окисление и восстановление","ymit":45,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"3 веб","name_ymit":"Умение определять степень окисления элемента в сложном веществе","ymit":47,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"3 веб","name_ymit":"Валентные электроны","ymit":54,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"3 веб","name_ymit":"Умение определять возможные степени окисления и валентности элемента по положению химического элемента в Периодической системе Д.И. Менделеева","ymit":57,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Установление логических связей","ymit":1202,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Способы выражения концентрации вещества","ymit":1203,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Понятие количества вещества","ymit":1211,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Понятие массовой доли вещества \/ элемента","ymit":1212,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Умение составлять и решать пропорции","ymit":1213,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Понятие объема вещества","ymit":1214,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Понятие массы вещества","ymit":1215,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Нахождение массовой доли вещества \/ элемента","ymit":1223,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Нахождение массы вещества","ymit":1225,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Нахождение объёма вещества","ymit":1224,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Умение выстраивать алгоритм действий на основе условия задачи","ymit":1229,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Умение составлять и решать уравнения для определения искомых величин","ymit":1230,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"4 веб","name_ymit":"Понятие молярной массы","ymit":1250,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Умение описывать свойства химического элемента на основе его положения в Периодической системе Д.И. Менделеева","ymit":5,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Понятия электроотрицательности и ионизации химических элементов","ymit":7,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Обменный и донорно-акцепторный механизмы образования химической связи","ymit":9,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Полярная и неполярная ковалентные связи","ymit":10,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Ионная связь","ymit":11,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Металлическая связь","ymit":12,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Водородная связь","ymit":13,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Атомная решетка","ymit":14,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Молекулярная решетка","ymit":15,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Ионная решетка","ymit":16,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Металлическая решетка","ymit":17,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Понятия полярности и кратности связи. Понятия длины связи и ее прочности (энергии)","ymit":37,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Сигма- и пи-связи","ymit":39,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Умение определять тип связи между атомами химических элементов","ymit":52,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Валентные электроны","ymit":54,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Неспаренные электроны","ymit":55,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Умение определять тип кристаллической решетки соединения","ymit":58,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"5 веб","name_ymit":"Связь между строением вещества и его физическими свойствами","ymit":59,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"6 веб","name_ymit":"Классификация химических реакций. Реакции соединения, обмена, замещения, разложения","ymit":1204,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"6 веб","name_ymit":"Обратимые и необратимые химические реакции","ymit":1205,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"6 веб","name_ymit":"Понятие теплового эффекта реакции. Экзотермические и эндотермические реакции","ymit":1206,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"6 веб","name_ymit":" Гомогенные и гетерогенные \nхимические реакции","ymit":1207,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"6 веб","name_ymit":"Умение определять признак(-и) реакции","ymit":1243,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"6 веб","name_ymit":"Классы неорганических соединений","ymit":1254,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"7 веб","name_ymit":"Факторы, влияющие на скорость химической реакции","ymit":23,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"7 веб","name_ymit":"Гомогенные и гетерогенные химические реакции","ymit":1207,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"7 веб","name_ymit":"Влияние катализаторов и ингибиторов на скорость реакции","ymit":1251,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"7 веб","name_ymit":"Умение составлять и решать пропорции","ymit":1213,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Понятие теплового эффекта реакции. Экзотермические и эндотермические реакции","ymit":1206,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Понятие количества вещества","ymit":1211,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Умение составлять и решать пропорции","ymit":1213,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Понятие объема вещества","ymit":1214,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Понятие массы вещества","ymit":1215,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Нахождение объёма вещества","ymit":1224,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Нахождение массы вещества","ymit":1225,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Умение выстраивать алгоритм действий на основе условия задачи","ymit":1229,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Умение составлять и решать уравнения для определения искомых величин","ymit":1230,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"8 веб","name_ymit":"Понятие молярной массы","ymit":1250,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"9 веб","name_ymit":"Понятие химического равновесия. Принцип Ле Шателье","ymit":26,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"9 веб","name_ymit":"Понятие теплового эффекта реакции. Экзотермические и эндотермические реакции","ymit":1206,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"9 веб","name_ymit":"Гомогенные и гетерогенные химические реакции","ymit":1207,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"10 веб","name_ymit":"Окислительно-восстановительные реакции и принципы их протекания","ymit":41,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"10 веб","name_ymit":"Степень окисления элементов. Окислитель и восстановитель. Окисление и восстановление","ymit":45,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"10 веб","name_ymit":"Умение определять степень окисления элемента в сложном веществе","ymit":47,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"10 веб","name_ymit":"Восстановительные свойства галогенидов и других солей","ymit":610,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"10 веб","name_ymit":"Окислительные свойства солей переходных металлов в высших или промежуточных степенях окисления","ymit":611,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"10 веб","name_ymit":"Межмолекулярные и внутримолекулярные ОВР. Реакции диспропорционирования и конпропорционирования","ymit":1247,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"10 веб","name_ymit":"Составление электронного баланса реакции","ymit":1248,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"11 веб","name_ymit":"Электролиз расплавов и растворов веществ","ymit":1256,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"11 веб","name_ymit":"Умение различать бескислородные и кислородсодержащие соли","ymit":601,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"11 веб","name_ymit":"Электролиз расплавов бескислородных солей","ymit":616,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"11 веб","name_ymit":"Электролиз растворов бескислородных солей","ymit":617,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"11 веб","name_ymit":"Электролиз растворов кислородсодержащих солей","ymit":618,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Понятие химического равновесия. Принцип Ле Шателье","ymit":26,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Обратимые и необратимые химические реакции","ymit":1205,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Понятие количества вещества","ymit":1211,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Понятие объема вещества","ymit":1214,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Понятие массы вещества","ymit":1215,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Нахождение объёма вещества","ymit":1224,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Нахождение массы вещества","ymit":1225,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Умение выстраивать алгоритм действий на основе условия задачи","ymit":1229,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Умение составлять и решать уравнения для определения искомых величин","ymit":1230,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"12 веб","name_ymit":"Понятие молярной массы","ymit":1250,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Теория электролитической диссоциации и ее основные положения","ymit":27,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Реакции ионного обмена. Правило Бертолле","ymit":40,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Классификация химических реакций. Реакции соединения, обмена, замещения, разложения","ymit":1204,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Обратимые и необратимые химические реакции","ymit":1205,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Понятие теплового эффекта реакции. Экзотермические и эндотермические реакции","ymit":1206,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Гомогенные и гетерогенные химические реакции","ymit":1207,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Умение определять признак(-и) реакции","ymit":1243,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Умение восстанавливать возможное уравнение реакции по ее сокращенному ионному уравнению","ymit":1244,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Умение различать химические и физические явления","ymit":1246,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Полное и сокращенное ионные уравнения","ymit":1249,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Классификация электролитов","ymit":1253,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"13 веб","name_ymit":"Основно-кислотные взаимодействия и их принципы","ymit":1257,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"14 веб","name_ymit":"Кислотность среды. Понятие рН","ymit":28,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"14 веб","name_ymit":"Умение различать щелочи и нерастворимые гидроксиды металлов","ymit":401,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"14 веб","name_ymit":"Умение различать сильные и слабые основания","ymit":402,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"14 веб","name_ymit":"Умение определять сильные и слабые кислоты","ymit":501,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"14 веб","name_ymit":"Гидролиз солей","ymit":615,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"14 веб","name_ymit":"Гидролиз веществ и определение среды раствора. Индикаторы","ymit":1255,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"15 веб","name_ymit":"Реакции ионного обмена. Правило Бертолле","ymit":40,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"15 веб","name_ymit":"Классификация химических реакций. Реакции соединения, обмена, замещения, разложения","ymit":1204,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"15 веб","name_ymit":"Обратимые и необратимые химические реакции","ymit":1205,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"15 веб","name_ymit":"Умение определять признак(-и) реакции","ymit":1243,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"15 веб","name_ymit":"Основно-кислотные взаимодействия и их принципы","ymit":1257,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Установление логических \nсвязей","ymit":1202,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Понятие количества вещества","ymit":1211,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Понятие массовой доли вещества \/ элемента","ymit":1212,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Умение составлять и решать пропорции","ymit":1213,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Понятие объема вещества","ymit":1214,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Понятие массы вещества","ymit":1215,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Понятие теоретически возможного и практического выхода продукта реакции","ymit":1218,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Понятие примесей","ymit":1219,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Понятие плотности вещества","ymit":1220,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Нахождение массовой или объемной доли практического выхода продукта реакции","ymit":1221,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Нахождение массы чистого вещества в образце с примесями","ymit":1222,"insight":1},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Нахождение объёма вещества","ymit":1224,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Нахождение массы вещества","ymit":1225,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Умение выстраивать алгоритм действий на основе условия задачи","ymit":1229,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Умение составлять и решать уравнения для определения искомых величин","ymit":1230,"insight":0},{"discipline":"him","appointment":"ege","teacher":"mayer","webinar":"16 веб","name_ymit":"Понятие молярной массы","ymit":1250,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Умение находить нестандартные способы решения","ymit":9,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Умение читать и понимать алгоритм","ymit":27,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Единицы измерения информации","ymit":108,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Декодирование информации","ymit":121,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Кодировка Unicode","ymit":123,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Кодировка UTF-8","ymit":127,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Файл","ymit":133,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Двоичный код","ymit":139,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Двоичная сс","ymit":701,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Разряды двоичного числа","ymit":706,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Алгоритм","ymit":713,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"1 веб","name_ymit":"Двоичная сс","ymit":802,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Умение выполнять арифметические действия","ymit":1,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Умение решать уравнения\/неравенства","ymit":12,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Перевод единиц измерения информации","ymit":49,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Единицы измерения информации","ymit":108,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Степени двойки","ymit":114,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Информационный вес одного символа","ymit":115,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Объем текстовой информации","ymit":118,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"16-битные кодировки","ymit":122,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Кодировка Unicode","ymit":123,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Кодировка UTF-16","ymit":124,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"8-битные кодировки","ymit":125,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Кодировка UTF-8","ymit":127,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Связь единиц измерения информации","ymit":128,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Символ","ymit":137,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"2 веб","name_ymit":"Арифметические операции","ymit":718,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Умение выполнять арифметические действия","ymit":1,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Умение решать уравнения\/неравенства","ymit":12,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Перевод единиц измерения информации","ymit":49,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Единицы измерения информации","ymit":108,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Степени двойки","ymit":114,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Информационный вес одного символа","ymit":115,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Объем текстовой информации","ymit":118,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Связь единиц измерения информации","ymit":128,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Умение составлять уравнения\/неравенства","ymit":19,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Умение пользоваться основными формулами информатики","ymit":26,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Арифметические операции","ymit":718,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Пиксели, объем пикселя","ymit":104,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Количество цветов изображения","ymit":105,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Объем изображения","ymit":106,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Кодирование звука","ymit":109,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Объем звукового файла","ymit":110,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Алфавит","ymit":116,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"3 веб","name_ymit":"Мощность алфавита","ymit":117,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Умение выполнять арифметические действия","ymit":1,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Умение решать уравнения\/неравенства","ymit":12,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Перевод единиц измерения информации","ymit":49,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Единицы измерения информации","ymit":108,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Степени двойки","ymit":114,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Умение составлять уравнения\/неравенства","ymit":19,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Арифметические операции","ymit":718,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Передача информации","ymit":119,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"4 веб","name_ymit":"Скорость передачи информации","ymit":120,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"5 веб","name_ymit":"Декодирование информации","ymit":121,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"5 веб","name_ymit":"Символ","ymit":137,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"5 веб","name_ymit":"Однозначное декодирование","ymit":138,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"5 веб","name_ymit":"Посимвольное кодирование","ymit":141,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"5 веб","name_ymit":"Равномерный код и неравномерный код","ymit":142,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Умение переводить текст на математический язык","ymit":7,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Знание основных математических теорем","ymit":8,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Умение решать уравнения\/неравенства","ymit":12,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Умение составлять уравнения\/неравенства","ymit":19,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Анализ данных","ymit":23,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Знание основных законов алгебры логики","ymit":30,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Понимание логических выражений","ymit":39,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Умение читать условие задачи","ymit":45,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Операция НЕ","ymit":602,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Операция И","ymit":603,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Операция ИЛИ","ymit":604,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Логическое выражение","ymit":608,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Истинность логического выражения","ymit":609,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Ложность логического выражения","ymit":610,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Неотрицательные числа","ymit":613,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Положительные числа","ymit":614,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"6 веб","name_ymit":"Отрезки","ymit":625,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Умение переводить текст на математический язык","ymit":7,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Знание основных математических теорем","ymit":8,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Умение решать уравнения\/неравенства","ymit":12,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Умение составлять уравнения\/неравенства","ymit":19,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Анализ данных","ymit":23,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Знание основных законов алгебры логики","ymit":30,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Понимание логических выражений","ymit":39,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Умение читать условие задачи","ymit":45,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Операция НЕ","ymit":602,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Операция И","ymit":603,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Операция ИЛИ","ymit":604,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Логическое выражение","ymit":608,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Истинность логического выражения","ymit":609,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Ложность логического выражения","ymit":610,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Таблицы истинности","ymit":601,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Импликация","ymit":605,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Эквивалентность","ymit":606,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Приоритет логических операций","ymit":607,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Закон двойного отрицания","ymit":618,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Закон Де Моргана","ymit":619,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"7 веб","name_ymit":"Законы логики","ymit":620,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Умение переводить текст на математический язык","ymit":7,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Знание основных математических теорем","ymit":8,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Умение решать уравнения\/неравенства","ymit":12,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Умение составлять уравнения\/неравенства","ymit":19,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Анализ данных","ymit":23,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Знание основных законов алгебры логики","ymit":30,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Понимание логических выражений","ymit":39,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Умение читать условие задачи","ymit":45,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Операция НЕ","ymit":602,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Операция И","ymit":603,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Операция ИЛИ","ymit":604,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Логическое выражение","ymit":608,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Истинность логического выражения","ymit":609,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Ложность логического выражения","ymit":610,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Таблицы истинности","ymit":601,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Импликация","ymit":605,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Эквивалентность","ymit":606,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Приоритет логических операций","ymit":607,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Закон двойного отрицания","ymit":618,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Закон Де Моргана","ymit":619,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Законы логики","ymit":620,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"8 веб","name_ymit":"Умение выполнять арифметические действия","ymit":1,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Умение построить круги Эйлера","ymit":33,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Понимание логических выражений","ymit":39,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Умение читать условие задачи","ymit":45,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Анализ данных","ymit":23,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Знание основных законов алгебры логики","ymit":30,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Операция И","ymit":603,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Операция ИЛИ","ymit":604,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Множества","ymit":621,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Пересечение множеств","ymit":622,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Круги Эйлера","ymit":623,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"9 веб","name_ymit":"Объединение множеств","ymit":624,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Умение построить круги Эйлера","ymit":33,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Понимание логических выражений","ymit":39,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Умение читать условие задачи","ymit":45,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Анализ данных","ymit":23,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Знание основных законов алгебры логики","ymit":30,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Операция И","ymit":603,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Операция ИЛИ","ymit":604,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Множества","ymit":621,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Пересечение множеств","ymit":622,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Круги Эйлера","ymit":623,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"10 веб","name_ymit":"Объединение множеств","ymit":624,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"11 веб","name_ymit":"Путь файла\/адрес файла в сети","ymit":132,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"11 веб","name_ymit":"Глобальная сеть","ymit":144,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"11 веб","name_ymit":"Локальная сеть","ymit":145,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"11 веб","name_ymit":"Файл","ymit":133,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"11 веб","name_ymit":"Сервер","ymit":134,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"11 веб","name_ymit":"Адрес IP","ymit":143,"insight":1},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Умение выполнять арифметические действия","ymit":1,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Умение решать уравнения\/неравенства","ymit":12,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Перевод единиц измерения информации","ymit":49,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Единицы измерения информации","ymit":108,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Степени двойки","ymit":114,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Информационный вес одного символа","ymit":115,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Объем текстовой информации","ymit":118,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Связь единиц измерения информации","ymit":128,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Умение составлять уравнения\/неравенства","ymit":19,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Умение пользоваться основными формулами информатики","ymit":26,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Арифметические операции","ymit":718,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Пиксели, объем пикселя","ymit":104,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Количество цветов изображения","ymit":105,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Объем изображения","ymit":106,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Кодирование звука","ymit":109,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Объем звукового файла","ymit":110,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Алфавит","ymit":116,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Мощность алфавита","ymit":117,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Путь файла\/адрес файла в сети","ymit":132,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Глобальная сеть","ymit":144,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Локальная сеть","ymit":145,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Файл","ymit":133,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Сервер","ymit":134,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Адрес IP","ymit":143,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Умение построить круги Эйлера","ymit":33,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Понимание логических выражений","ymit":39,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Умение читать условие задачи","ymit":45,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Анализ данных","ymit":23,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Знание основных законов алгебры логики","ymit":30,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Операция И","ymit":603,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Операция ИЛИ","ymit":604,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Множества","ymit":621,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Пересечение множеств","ymit":622,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Круги Эйлера","ymit":623,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Объединение множеств","ymit":624,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Декодирование информации","ymit":121,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Символ","ymit":137,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Однозначное декодирование","ymit":138,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Посимвольное кодирование","ymit":141,"insight":0},{"discipline":"inf","appointment":"oge","teacher":"frolov","webinar":"12 веб","name_ymit":"Равномерный код и неравномерный код","ymit":142,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"1 веб","name_ymit":"Особенности культуры 17 века","ymit":319,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"1 веб","name_ymit":"Литература 17 века","ymit":320,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"1 веб","name_ymit":"Архитектура 17 века","ymit":321,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"1 веб","name_ymit":"Образование 17 века","ymit":322,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"1 веб","name_ymit":"Живопись 17 века","ymit":323,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Детство Петра 1","ymit":327,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Азовские походы","ymit":328,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Великое посольство","ymit":329,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Стрелецкий бунт","ymit":330,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Рекрутская реформа","ymit":331,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Европеизация при Петре Первом","ymit":332,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Социально-экономические реформы","ymit":335,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Административные реформы","ymit":336,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Военные реформы","ymit":337,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"2 веб","name_ymit":"Вопрос о престолонаследии","ymit":338,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"3 веб","name_ymit":"Азовские походы","ymit":328,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"3 веб","name_ymit":"Великое посольство","ymit":329,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"3 веб","name_ymit":"Северная война","ymit":333,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"3 веб","name_ymit":"Каспийский и Персидский поход","ymit":334,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"4 веб","name_ymit":"Екатерина Первая. Создание Верховного Тайного Совета","ymit":342,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"4 веб","name_ymit":"Обстановка при Петре Втором","ymit":343,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"4 веб","name_ymit":"Экспедиция Беринга","ymit":344,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"4 веб","name_ymit":"Приход Анны Иоанновны к власти","ymit":345,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"4 веб","name_ymit":"Бироновщина","ymit":346,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"4 веб","name_ymit":"Внутренная политика Анны Иоанновной","ymit":347,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"4 веб","name_ymit":"Внешняя политика Анны Иоанновны","ymit":348,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"5 веб","name_ymit":"Причины дворцового переворота 1741","ymit":349,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"5 веб","name_ymit":"Личность Елизаветы Петровны","ymit":350,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"5 веб","name_ymit":"Экономическая политика Елизаветы","ymit":351,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"5 веб","name_ymit":"Дарование льгот дворянству","ymit":352,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"5 веб","name_ymit":"Русско-Шведская война 1741-1743","ymit":353,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"5 веб","name_ymit":"Семилетняя война","ymit":354,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Причины дворцового переворота 1741","ymit":349,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Личность Елизаветы Петровны","ymit":350,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Экономическая политика Елизаветы","ymit":351,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Дарование льгот дворянству","ymit":352,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Русско-Шведская война 1741-1743","ymit":353,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Семилетняя война","ymit":354,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Екатерина Первая. Создание Верховного Тайного Совета","ymit":342,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Обстановка при Петре Втором","ymit":343,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Экспедиция Беринга","ymit":344,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Приход Анны Иоанновны к власти","ymit":345,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Бироновщина","ymit":346,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Внутренная политика Анны Иоанновной","ymit":347,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Внешняя политика Анны Иоанновны","ymit":348,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Азовские походы","ymit":328,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Великое посольство","ymit":329,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Северная война","ymit":333,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Каспийский и Персидский поход","ymit":334,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Детство Петра 1","ymit":327,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Азовские походы","ymit":328,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Великое посольство","ymit":329,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Стрелецкий бунт","ymit":330,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Рекрутская реформа","ymit":331,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Европеизация при Петре Первом","ymit":332,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Социально-экономические реформы","ymit":335,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Административные реформы","ymit":336,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Военные реформы","ymit":337,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Вопрос о престолонаследии","ymit":338,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Особенности культуры 17 века","ymit":319,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Литература 17 века","ymit":320,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Архитектура 17 века","ymit":321,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Образование 17 века","ymit":322,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"6 веб","name_ymit":"Живопись 17 века","ymit":323,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Семилетняя война","ymit":354,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Личность Петра III","ymit":355,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Петербургский мир","ymit":356,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Начало секуляризации церковных имуществ","ymit":357,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Манифест о вольности дворянству","ymit":358,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Причины недовольства Петром 3. Дворцовый переворот 1762","ymit":359,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Личность Екатерины Второй","ymit":401,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Экономика при Екатерине II","ymit":402,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Реформы Екатерины II","ymit":403,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Просвещенный абсолютизм","ymit":404,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Уложенная комиссия","ymit":405,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Жалованные грамоты дворянству и городам","ymit":406,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"7 веб","name_ymit":"Пугачевщина","ymit":408,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"8 веб","name_ymit":"Французская революция XVIII в","ymit":907,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"8 веб","name_ymit":"Всемирная история XVIII века","ymit":906,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"8 веб","name_ymit":"Война за независимость британских колоний в Северной Америке и образование США","ymit":908,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"9 веб","name_ymit":"Русско-турецкая война 1768-1774","ymit":409,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"9 веб","name_ymit":"Присоединение Крыма","ymit":410,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"9 веб","name_ymit":"Георгиевский трактат с Грузией","ymit":411,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"9 веб","name_ymit":"Русско-турецкая война 1787-1791","ymit":412,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"9 веб","name_ymit":"Русско-шведская война 1788-1790","ymit":413,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"9 веб","name_ymit":"Разделы Речи Посполитой","ymit":414,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"9 веб","name_ymit":"Дипломатия Екатерины II","ymit":415,"insight":1},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Особенности культуры 17 века","ymit":319,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Литература 17 века","ymit":320,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Архитектура 17 века","ymit":321,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Образование 17 века","ymit":322,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Живопись 17 века","ymit":323,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Детство Петра 1","ymit":327,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Азовские походы","ymit":328,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Великое посольство","ymit":329,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Стрелецкий бунт","ymit":330,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Рекрутская реформа","ymit":331,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Европеизация при Петре Первом","ymit":332,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Социально-экономические реформы","ymit":335,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Административные реформы","ymit":336,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Военные реформы","ymit":337,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Вопрос о престолонаследии","ymit":338,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Азовские походы","ymit":328,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Великое посольство","ymit":329,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Северная война","ymit":333,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Каспийский и Персидский поход","ymit":334,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Екатерина Первая. Создание Верховного Тайного Совета","ymit":342,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Обстановка при Петре Втором","ymit":343,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Экспедиция Беринга","ymit":344,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Приход Анны Иоанновны к власти","ymit":345,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Бироновщина","ymit":346,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Внутренная политика Анны Иоанновной","ymit":347,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Внешняя политика Анны Иоанновны","ymit":348,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Причины дворцового переворота 1741","ymit":349,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Личность Елизаветы Петровны","ymit":350,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Экономическая политика Елизаветы","ymit":351,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Дарование льгот дворянству","ymit":352,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Русско-Шведская война 1741-1743","ymit":353,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Семилетняя война","ymit":354,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Семилетняя война","ymit":354,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Личность Петра III","ymit":355,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Петербургский мир","ymit":356,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Начало секуляризации церковных имуществ","ymit":357,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Манифест о вольности дворянству","ymit":358,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Причины недовольства Петром 3. Дворцовый переворот 1762","ymit":359,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Личность Екатерины Второй","ymit":401,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Экономика при Екатерине II","ymit":402,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Реформы Екатерины II","ymit":403,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Просвещенный абсолютизм","ymit":404,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Уложенная комиссия","ymit":405,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Жалованные грамоты дворянству и городам","ymit":406,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Пугачевщина","ymit":408,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Французская революция XVIII в","ymit":907,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Всемирная история XVIII века","ymit":906,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Война за независимость британских колоний в Северной Америке и образование США","ymit":908,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Русско-турецкая война 1768-1774","ymit":409,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Присоединение Крыма","ymit":410,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Георгиевский трактат с Грузией","ymit":411,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Русско-турецкая война 1787-1791","ymit":412,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Русско-шведская война 1788-1790","ymit":413,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Разделы Речи Посполитой","ymit":414,"insight":0},{"discipline":"ist","appointment":"10c","teacher":"ravich","webinar":"10 веб","name_ymit":"Дипломатия Екатерины II","ymit":415,"insight":0}]
+[{
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Атом и его строение",
+    "ymit": 1,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Порядок заполнения электронных орбиталей электронами и их строение",
+    "ymit": 4,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Понятия электронной конфигурации, энергетических уровня и подуровня. Умение писать электронные конфигурации атомов ",
+    "ymit": 29,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Понятие проскока электрона",
+    "ymit": 30,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Основное состояние атома",
+    "ymit": 31,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Возбужденное состояние атома",
+    "ymit": 32,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Валентные электроны",
+    "ymit": 54,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Неспаренные электроны",
+    "ymit": 55,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Электронная конфигурация ионов",
+    "ymit": 56,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "1 веб",
+    "name_ymit": "Изменение энергии ионизации атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 60,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Умение описывать свойства химического элемента на основе его положения в Периодической системе Д.И. Менделеева",
+    "ymit": 5,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Понятие валентности и валентные возможности атомов химических элементов",
+    "ymit": 6,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Понятия электроотрицательности и ионизации химических элементов",
+    "ymit": 7,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Понятие окислительно-восстановительных свойств",
+    "ymit": 8,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Изменение радиуса атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 33,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Изменение электроотрицательности атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 34,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Изменение окислительных и восстановительных свойств атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 35,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Изменение металлических и неметаллических свойств атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 42,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Водородные соединения неметаллов и металлов и закономерности изменения их свойств исходя из их положения в Периодической системе Д.И. Менделеева",
+    "ymit": 43,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Закономерности изменения свойств высших оксидов и гидроксидов в зависимости от положения элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 44,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Умение определять местоположение химического элемента в Периодической системе Д.И. Менделеева по его свойствам",
+    "ymit": 46,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Умение определять период и группу, в которых находится химический элемент в Периодической системе Д.И. Менделеева",
+    "ymit": 50,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Умение различать металлы и неметаллы в Периодической системе Д.И. Менделеева",
+    "ymit": 51,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Изменение сродства к электрону атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 53,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Умение определять возможные степени окисления и валентности элемента по положению химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 57,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "2 веб",
+    "name_ymit": "Изменение энергии ионизации атомов в зависимости от положения химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 60,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "3 веб",
+    "name_ymit": "Понятие валентности и валентные возможности атомов химических элементов",
+    "ymit": 6,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "3 веб",
+    "name_ymit": "Понятия электроотрицательности и ионизации химических элементов",
+    "ymit": 7,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "3 веб",
+    "name_ymit": "Случаи несовпадения валентности и степени окисления",
+    "ymit": 36,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "3 веб",
+    "name_ymit": "Степень окисления элементов. Окислитель и восстановитель. Окисление и восстановление",
+    "ymit": 45,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "3 веб",
+    "name_ymit": "Умение определять степень окисления элемента в сложном веществе",
+    "ymit": 47,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "3 веб",
+    "name_ymit": "Валентные электроны",
+    "ymit": 54,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "3 веб",
+    "name_ymit": "Умение определять возможные степени окисления и валентности элемента по положению химического элемента в Периодической системе Д.И. Менделеева",
+    "ymit": 57,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Установление логических связей",
+    "ymit": 1202,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Способы выражения концентрации вещества",
+    "ymit": 1203,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Понятие количества вещества",
+    "ymit": 1211,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Понятие массовой доли вещества \/ элемента",
+    "ymit": 1212,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Умение составлять и решать пропорции",
+    "ymit": 1213,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Понятие объема вещества",
+    "ymit": 1214,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Понятие массы вещества",
+    "ymit": 1215,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Нахождение массовой доли вещества \/ элемента",
+    "ymit": 1223,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Нахождение массы вещества",
+    "ymit": 1225,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Нахождение объёма вещества",
+    "ymit": 1224,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Умение выстраивать алгоритм действий на основе условия задачи",
+    "ymit": 1229,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Умение составлять и решать уравнения для определения искомых величин",
+    "ymit": 1230,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "4 веб",
+    "name_ymit": "Понятие молярной массы",
+    "ymit": 1250,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Умение описывать свойства химического элемента на основе его положения в Периодической системе Д.И. Менделеева",
+    "ymit": 5,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Понятия электроотрицательности и ионизации химических элементов",
+    "ymit": 7,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Обменный и донорно-акцепторный механизмы образования химической связи",
+    "ymit": 9,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Полярная и неполярная ковалентные связи",
+    "ymit": 10,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Ионная связь",
+    "ymit": 11,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Металлическая связь",
+    "ymit": 12,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Водородная связь",
+    "ymit": 13,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Атомная решетка",
+    "ymit": 14,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Молекулярная решетка",
+    "ymit": 15,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Ионная решетка",
+    "ymit": 16,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Металлическая решетка",
+    "ymit": 17,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Понятия полярности и кратности связи. Понятия длины связи и ее прочности (энергии)",
+    "ymit": 37,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Сигма- и пи-связи",
+    "ymit": 39,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Умение определять тип связи между атомами химических элементов",
+    "ymit": 52,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Валентные электроны",
+    "ymit": 54,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Неспаренные электроны",
+    "ymit": 55,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Умение определять тип кристаллической решетки соединения",
+    "ymit": 58,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "5 веб",
+    "name_ymit": "Связь между строением вещества и его физическими свойствами",
+    "ymit": 59,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "6 веб",
+    "name_ymit": "Классификация химических реакций. Реакции соединения, обмена, замещения, разложения",
+    "ymit": 1204,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "6 веб",
+    "name_ymit": "Обратимые и необратимые химические реакции",
+    "ymit": 1205,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "6 веб",
+    "name_ymit": "Понятие теплового эффекта реакции. Экзотермические и эндотермические реакции",
+    "ymit": 1206,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "6 веб",
+    "name_ymit": " Гомогенные и гетерогенные \nхимические реакции",
+    "ymit": 1207,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "6 веб",
+    "name_ymit": "Умение определять признак(-и) реакции",
+    "ymit": 1243,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "6 веб",
+    "name_ymit": "Классы неорганических соединений",
+    "ymit": 1254,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "7 веб",
+    "name_ymit": "Факторы, влияющие на скорость химической реакции",
+    "ymit": 23,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "7 веб",
+    "name_ymit": "Гомогенные и гетерогенные химические реакции",
+    "ymit": 1207,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "7 веб",
+    "name_ymit": "Влияние катализаторов и ингибиторов на скорость реакции",
+    "ymit": 1251,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "7 веб",
+    "name_ymit": "Умение составлять и решать пропорции",
+    "ymit": 1213,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Понятие теплового эффекта реакции. Экзотермические и эндотермические реакции",
+    "ymit": 1206,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Понятие количества вещества",
+    "ymit": 1211,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Умение составлять и решать пропорции",
+    "ymit": 1213,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Понятие объема вещества",
+    "ymit": 1214,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Понятие массы вещества",
+    "ymit": 1215,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Нахождение объёма вещества",
+    "ymit": 1224,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Нахождение массы вещества",
+    "ymit": 1225,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Умение выстраивать алгоритм действий на основе условия задачи",
+    "ymit": 1229,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Умение составлять и решать уравнения для определения искомых величин",
+    "ymit": 1230,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "8 веб",
+    "name_ymit": "Понятие молярной массы",
+    "ymit": 1250,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "9 веб",
+    "name_ymit": "Понятие химического равновесия. Принцип Ле Шателье",
+    "ymit": 26,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "9 веб",
+    "name_ymit": "Понятие теплового эффекта реакции. Экзотермические и эндотермические реакции",
+    "ymit": 1206,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "9 веб",
+    "name_ymit": "Гомогенные и гетерогенные химические реакции",
+    "ymit": 1207,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "10 веб",
+    "name_ymit": "Окислительно-восстановительные реакции и принципы их протекания",
+    "ymit": 41,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "10 веб",
+    "name_ymit": "Степень окисления элементов. Окислитель и восстановитель. Окисление и восстановление",
+    "ymit": 45,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "10 веб",
+    "name_ymit": "Умение определять степень окисления элемента в сложном веществе",
+    "ymit": 47,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "10 веб",
+    "name_ymit": "Восстановительные свойства галогенидов и других солей",
+    "ymit": 610,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "10 веб",
+    "name_ymit": "Окислительные свойства солей переходных металлов в высших или промежуточных степенях окисления",
+    "ymit": 611,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "10 веб",
+    "name_ymit": "Межмолекулярные и внутримолекулярные ОВР. Реакции диспропорционирования и конпропорционирования",
+    "ymit": 1247,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "10 веб",
+    "name_ymit": "Составление электронного баланса реакции",
+    "ymit": 1248,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "11 веб",
+    "name_ymit": "Электролиз расплавов и растворов веществ",
+    "ymit": 1256,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "11 веб",
+    "name_ymit": "Умение различать бескислородные и кислородсодержащие соли",
+    "ymit": 601,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "11 веб",
+    "name_ymit": "Электролиз расплавов бескислородных солей",
+    "ymit": 616,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "11 веб",
+    "name_ymit": "Электролиз растворов бескислородных солей",
+    "ymit": 617,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "11 веб",
+    "name_ymit": "Электролиз растворов кислородсодержащих солей",
+    "ymit": 618,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Понятие химического равновесия. Принцип Ле Шателье",
+    "ymit": 26,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Обратимые и необратимые химические реакции",
+    "ymit": 1205,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Понятие количества вещества",
+    "ymit": 1211,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Понятие объема вещества",
+    "ymit": 1214,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Понятие массы вещества",
+    "ymit": 1215,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Нахождение объёма вещества",
+    "ymit": 1224,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Нахождение массы вещества",
+    "ymit": 1225,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Умение выстраивать алгоритм действий на основе условия задачи",
+    "ymit": 1229,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Умение составлять и решать уравнения для определения искомых величин",
+    "ymit": 1230,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "12 веб",
+    "name_ymit": "Понятие молярной массы",
+    "ymit": 1250,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Теория электролитической диссоциации и ее основные положения",
+    "ymit": 27,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Реакции ионного обмена. Правило Бертолле",
+    "ymit": 40,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Классификация химических реакций. Реакции соединения, обмена, замещения, разложения",
+    "ymit": 1204,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Обратимые и необратимые химические реакции",
+    "ymit": 1205,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Понятие теплового эффекта реакции. Экзотермические и эндотермические реакции",
+    "ymit": 1206,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Гомогенные и гетерогенные химические реакции",
+    "ymit": 1207,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Умение определять признак(-и) реакции",
+    "ymit": 1243,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Умение восстанавливать возможное уравнение реакции по ее сокращенному ионному уравнению",
+    "ymit": 1244,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Умение различать химические и физические явления",
+    "ymit": 1246,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Полное и сокращенное ионные уравнения",
+    "ymit": 1249,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Классификация электролитов",
+    "ymit": 1253,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "13 веб",
+    "name_ymit": "Основно-кислотные взаимодействия и их принципы",
+    "ymit": 1257,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "14 веб",
+    "name_ymit": "Кислотность среды. Понятие рН",
+    "ymit": 28,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "14 веб",
+    "name_ymit": "Умение различать щелочи и нерастворимые гидроксиды металлов",
+    "ymit": 401,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "14 веб",
+    "name_ymit": "Умение различать сильные и слабые основания",
+    "ymit": 402,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "14 веб",
+    "name_ymit": "Умение определять сильные и слабые кислоты",
+    "ymit": 501,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "14 веб",
+    "name_ymit": "Гидролиз солей",
+    "ymit": 615,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "14 веб",
+    "name_ymit": "Гидролиз веществ и определение среды раствора. Индикаторы",
+    "ymit": 1255,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "15 веб",
+    "name_ymit": "Реакции ионного обмена. Правило Бертолле",
+    "ymit": 40,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "15 веб",
+    "name_ymit": "Классификация химических реакций. Реакции соединения, обмена, замещения, разложения",
+    "ymit": 1204,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "15 веб",
+    "name_ymit": "Обратимые и необратимые химические реакции",
+    "ymit": 1205,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "15 веб",
+    "name_ymit": "Умение определять признак(-и) реакции",
+    "ymit": 1243,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "15 веб",
+    "name_ymit": "Основно-кислотные взаимодействия и их принципы",
+    "ymit": 1257,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Установление логических \nсвязей",
+    "ymit": 1202,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Понятие количества вещества",
+    "ymit": 1211,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Понятие массовой доли вещества \/ элемента",
+    "ymit": 1212,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Умение составлять и решать пропорции",
+    "ymit": 1213,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Понятие объема вещества",
+    "ymit": 1214,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Понятие массы вещества",
+    "ymit": 1215,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Понятие теоретически возможного и практического выхода продукта реакции",
+    "ymit": 1218,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Понятие примесей",
+    "ymit": 1219,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Понятие плотности вещества",
+    "ymit": 1220,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Нахождение массовой или объемной доли практического выхода продукта реакции",
+    "ymit": 1221,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Нахождение массы чистого вещества в образце с примесями",
+    "ymit": 1222,
+    "insight": 1
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Нахождение объёма вещества",
+    "ymit": 1224,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Нахождение массы вещества",
+    "ymit": 1225,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Умение выстраивать алгоритм действий на основе условия задачи",
+    "ymit": 1229,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Умение составлять и решать уравнения для определения искомых величин",
+    "ymit": 1230,
+    "insight": 0
+}, {
+    "discipline": "him",
+    "appointment": "ege",
+    "teacher": "mayer",
+    "webinar": "16 веб",
+    "name_ymit": "Понятие молярной массы",
+    "ymit": 1250,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Умение находить нестандартные способы решения",
+    "ymit": 9,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Умение читать и понимать алгоритм",
+    "ymit": 27,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Единицы измерения информации",
+    "ymit": 108,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Декодирование информации",
+    "ymit": 121,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Кодировка Unicode",
+    "ymit": 123,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Кодировка UTF-8",
+    "ymit": 127,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Файл",
+    "ymit": 133,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Двоичный код",
+    "ymit": 139,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Двоичная сс",
+    "ymit": 701,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Разряды двоичного числа",
+    "ymit": 706,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Алгоритм",
+    "ymit": 713,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "1 веб",
+    "name_ymit": "Двоичная сс",
+    "ymit": 802,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Умение выполнять арифметические действия",
+    "ymit": 1,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Умение решать уравнения\/неравенства",
+    "ymit": 12,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Перевод единиц измерения информации",
+    "ymit": 49,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Единицы измерения информации",
+    "ymit": 108,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Степени двойки",
+    "ymit": 114,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Информационный вес одного символа",
+    "ymit": 115,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Объем текстовой информации",
+    "ymit": 118,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "16-битные кодировки",
+    "ymit": 122,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Кодировка Unicode",
+    "ymit": 123,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Кодировка UTF-16",
+    "ymit": 124,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "8-битные кодировки",
+    "ymit": 125,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Кодировка UTF-8",
+    "ymit": 127,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Связь единиц измерения информации",
+    "ymit": 128,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Символ",
+    "ymit": 137,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "2 веб",
+    "name_ymit": "Арифметические операции",
+    "ymit": 718,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Умение выполнять арифметические действия",
+    "ymit": 1,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Умение решать уравнения\/неравенства",
+    "ymit": 12,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Перевод единиц измерения информации",
+    "ymit": 49,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Единицы измерения информации",
+    "ymit": 108,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Степени двойки",
+    "ymit": 114,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Информационный вес одного символа",
+    "ymit": 115,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Объем текстовой информации",
+    "ymit": 118,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Связь единиц измерения информации",
+    "ymit": 128,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Умение составлять уравнения\/неравенства",
+    "ymit": 19,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Умение пользоваться основными формулами информатики",
+    "ymit": 26,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Арифметические операции",
+    "ymit": 718,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Пиксели, объем пикселя",
+    "ymit": 104,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Количество цветов изображения",
+    "ymit": 105,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Объем изображения",
+    "ymit": 106,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Кодирование звука",
+    "ymit": 109,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Объем звукового файла",
+    "ymit": 110,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Алфавит",
+    "ymit": 116,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "3 веб",
+    "name_ymit": "Мощность алфавита",
+    "ymit": 117,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Умение выполнять арифметические действия",
+    "ymit": 1,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Умение решать уравнения\/неравенства",
+    "ymit": 12,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Перевод единиц измерения информации",
+    "ymit": 49,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Единицы измерения информации",
+    "ymit": 108,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Степени двойки",
+    "ymit": 114,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Умение составлять уравнения\/неравенства",
+    "ymit": 19,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Арифметические операции",
+    "ymit": 718,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Передача информации",
+    "ymit": 119,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "4 веб",
+    "name_ymit": "Скорость передачи информации",
+    "ymit": 120,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "5 веб",
+    "name_ymit": "Декодирование информации",
+    "ymit": 121,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "5 веб",
+    "name_ymit": "Символ",
+    "ymit": 137,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "5 веб",
+    "name_ymit": "Однозначное декодирование",
+    "ymit": 138,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "5 веб",
+    "name_ymit": "Посимвольное кодирование",
+    "ymit": 141,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "5 веб",
+    "name_ymit": "Равномерный код и неравномерный код",
+    "ymit": 142,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Умение переводить текст на математический язык",
+    "ymit": 7,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Знание основных математических теорем",
+    "ymit": 8,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Умение решать уравнения\/неравенства",
+    "ymit": 12,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Умение составлять уравнения\/неравенства",
+    "ymit": 19,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Анализ данных",
+    "ymit": 23,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Знание основных законов алгебры логики",
+    "ymit": 30,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Понимание логических выражений",
+    "ymit": 39,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Умение читать условие задачи",
+    "ymit": 45,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Операция НЕ",
+    "ymit": 602,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Операция И",
+    "ymit": 603,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Операция ИЛИ",
+    "ymit": 604,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Логическое выражение",
+    "ymit": 608,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Истинность логического выражения",
+    "ymit": 609,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Ложность логического выражения",
+    "ymit": 610,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Неотрицательные числа",
+    "ymit": 613,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Положительные числа",
+    "ymit": 614,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "6 веб",
+    "name_ymit": "Отрезки",
+    "ymit": 625,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Умение переводить текст на математический язык",
+    "ymit": 7,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Знание основных математических теорем",
+    "ymit": 8,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Умение решать уравнения\/неравенства",
+    "ymit": 12,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Умение составлять уравнения\/неравенства",
+    "ymit": 19,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Анализ данных",
+    "ymit": 23,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Знание основных законов алгебры логики",
+    "ymit": 30,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Понимание логических выражений",
+    "ymit": 39,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Умение читать условие задачи",
+    "ymit": 45,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Операция НЕ",
+    "ymit": 602,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Операция И",
+    "ymit": 603,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Операция ИЛИ",
+    "ymit": 604,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Логическое выражение",
+    "ymit": 608,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Истинность логического выражения",
+    "ymit": 609,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Ложность логического выражения",
+    "ymit": 610,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Таблицы истинности",
+    "ymit": 601,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Импликация",
+    "ymit": 605,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Эквивалентность",
+    "ymit": 606,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Приоритет логических операций",
+    "ymit": 607,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Закон двойного отрицания",
+    "ymit": 618,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Закон Де Моргана",
+    "ymit": 619,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "7 веб",
+    "name_ymit": "Законы логики",
+    "ymit": 620,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Умение переводить текст на математический язык",
+    "ymit": 7,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Знание основных математических теорем",
+    "ymit": 8,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Умение решать уравнения\/неравенства",
+    "ymit": 12,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Умение составлять уравнения\/неравенства",
+    "ymit": 19,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Анализ данных",
+    "ymit": 23,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Знание основных законов алгебры логики",
+    "ymit": 30,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Понимание логических выражений",
+    "ymit": 39,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Умение читать условие задачи",
+    "ymit": 45,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Операция НЕ",
+    "ymit": 602,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Операция И",
+    "ymit": 603,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Операция ИЛИ",
+    "ymit": 604,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Логическое выражение",
+    "ymit": 608,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Истинность логического выражения",
+    "ymit": 609,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Ложность логического выражения",
+    "ymit": 610,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Таблицы истинности",
+    "ymit": 601,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Импликация",
+    "ymit": 605,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Эквивалентность",
+    "ymit": 606,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Приоритет логических операций",
+    "ymit": 607,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Закон двойного отрицания",
+    "ymit": 618,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Закон Де Моргана",
+    "ymit": 619,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Законы логики",
+    "ymit": 620,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "8 веб",
+    "name_ymit": "Умение выполнять арифметические действия",
+    "ymit": 1,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Умение построить круги Эйлера",
+    "ymit": 33,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Понимание логических выражений",
+    "ymit": 39,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Умение читать условие задачи",
+    "ymit": 45,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Анализ данных",
+    "ymit": 23,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Знание основных законов алгебры логики",
+    "ymit": 30,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Операция И",
+    "ymit": 603,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Операция ИЛИ",
+    "ymit": 604,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Множества",
+    "ymit": 621,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Пересечение множеств",
+    "ymit": 622,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Круги Эйлера",
+    "ymit": 623,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "9 веб",
+    "name_ymit": "Объединение множеств",
+    "ymit": 624,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Умение построить круги Эйлера",
+    "ymit": 33,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Понимание логических выражений",
+    "ymit": 39,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Умение читать условие задачи",
+    "ymit": 45,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Анализ данных",
+    "ymit": 23,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Знание основных законов алгебры логики",
+    "ymit": 30,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Операция И",
+    "ymit": 603,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Операция ИЛИ",
+    "ymit": 604,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Множества",
+    "ymit": 621,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Пересечение множеств",
+    "ymit": 622,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Круги Эйлера",
+    "ymit": 623,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "10 веб",
+    "name_ymit": "Объединение множеств",
+    "ymit": 624,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "11 веб",
+    "name_ymit": "Путь файла\/адрес файла в сети",
+    "ymit": 132,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "11 веб",
+    "name_ymit": "Глобальная сеть",
+    "ymit": 144,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "11 веб",
+    "name_ymit": "Локальная сеть",
+    "ymit": 145,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "11 веб",
+    "name_ymit": "Файл",
+    "ymit": 133,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "11 веб",
+    "name_ymit": "Сервер",
+    "ymit": 134,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "11 веб",
+    "name_ymit": "Адрес IP",
+    "ymit": 143,
+    "insight": 1
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Умение выполнять арифметические действия",
+    "ymit": 1,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Умение решать уравнения\/неравенства",
+    "ymit": 12,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Перевод единиц измерения информации",
+    "ymit": 49,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Единицы измерения информации",
+    "ymit": 108,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Степени двойки",
+    "ymit": 114,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Информационный вес одного символа",
+    "ymit": 115,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Объем текстовой информации",
+    "ymit": 118,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Связь единиц измерения информации",
+    "ymit": 128,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Умение составлять уравнения\/неравенства",
+    "ymit": 19,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Умение пользоваться основными формулами информатики",
+    "ymit": 26,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Арифметические операции",
+    "ymit": 718,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Пиксели, объем пикселя",
+    "ymit": 104,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Количество цветов изображения",
+    "ymit": 105,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Объем изображения",
+    "ymit": 106,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Кодирование звука",
+    "ymit": 109,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Объем звукового файла",
+    "ymit": 110,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Алфавит",
+    "ymit": 116,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Мощность алфавита",
+    "ymit": 117,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Путь файла\/адрес файла в сети",
+    "ymit": 132,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Глобальная сеть",
+    "ymit": 144,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Локальная сеть",
+    "ymit": 145,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Файл",
+    "ymit": 133,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Сервер",
+    "ymit": 134,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Адрес IP",
+    "ymit": 143,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Умение построить круги Эйлера",
+    "ymit": 33,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Понимание логических выражений",
+    "ymit": 39,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Умение читать условие задачи",
+    "ymit": 45,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Анализ данных",
+    "ymit": 23,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Знание основных законов алгебры логики",
+    "ymit": 30,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Операция И",
+    "ymit": 603,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Операция ИЛИ",
+    "ymit": 604,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Множества",
+    "ymit": 621,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Пересечение множеств",
+    "ymit": 622,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Круги Эйлера",
+    "ymit": 623,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Объединение множеств",
+    "ymit": 624,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Декодирование информации",
+    "ymit": 121,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Символ",
+    "ymit": 137,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Однозначное декодирование",
+    "ymit": 138,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Посимвольное кодирование",
+    "ymit": 141,
+    "insight": 0
+}, {
+    "discipline": "inf",
+    "appointment": "oge",
+    "teacher": "frolov",
+    "webinar": "12 веб",
+    "name_ymit": "Равномерный код и неравномерный код",
+    "ymit": 142,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "1 веб",
+    "name_ymit": "Особенности культуры 17 века",
+    "ymit": 319,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "1 веб",
+    "name_ymit": "Литература 17 века",
+    "ymit": 320,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "1 веб",
+    "name_ymit": "Архитектура 17 века",
+    "ymit": 321,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "1 веб",
+    "name_ymit": "Образование 17 века",
+    "ymit": 322,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "1 веб",
+    "name_ymit": "Живопись 17 века",
+    "ymit": 323,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Детство Петра 1",
+    "ymit": 327,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Азовские походы",
+    "ymit": 328,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Великое посольство",
+    "ymit": 329,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Стрелецкий бунт",
+    "ymit": 330,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Рекрутская реформа",
+    "ymit": 331,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Европеизация при Петре Первом",
+    "ymit": 332,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Социально-экономические реформы",
+    "ymit": 335,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Административные реформы",
+    "ymit": 336,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Военные реформы",
+    "ymit": 337,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "2 веб",
+    "name_ymit": "Вопрос о престолонаследии",
+    "ymit": 338,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "3 веб",
+    "name_ymit": "Азовские походы",
+    "ymit": 328,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "3 веб",
+    "name_ymit": "Великое посольство",
+    "ymit": 329,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "3 веб",
+    "name_ymit": "Северная война",
+    "ymit": 333,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "3 веб",
+    "name_ymit": "Каспийский и Персидский поход",
+    "ymit": 334,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "4 веб",
+    "name_ymit": "Екатерина Первая. Создание Верховного Тайного Совета",
+    "ymit": 342,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "4 веб",
+    "name_ymit": "Обстановка при Петре Втором",
+    "ymit": 343,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "4 веб",
+    "name_ymit": "Экспедиция Беринга",
+    "ymit": 344,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "4 веб",
+    "name_ymit": "Приход Анны Иоанновны к власти",
+    "ymit": 345,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "4 веб",
+    "name_ymit": "Бироновщина",
+    "ymit": 346,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "4 веб",
+    "name_ymit": "Внутренная политика Анны Иоанновной",
+    "ymit": 347,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "4 веб",
+    "name_ymit": "Внешняя политика Анны Иоанновны",
+    "ymit": 348,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "5 веб",
+    "name_ymit": "Причины дворцового переворота 1741",
+    "ymit": 349,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "5 веб",
+    "name_ymit": "Личность Елизаветы Петровны",
+    "ymit": 350,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "5 веб",
+    "name_ymit": "Экономическая политика Елизаветы",
+    "ymit": 351,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "5 веб",
+    "name_ymit": "Дарование льгот дворянству",
+    "ymit": 352,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "5 веб",
+    "name_ymit": "Русско-Шведская война 1741-1743",
+    "ymit": 353,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "5 веб",
+    "name_ymit": "Семилетняя война",
+    "ymit": 354,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Причины дворцового переворота 1741",
+    "ymit": 349,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Личность Елизаветы Петровны",
+    "ymit": 350,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Экономическая политика Елизаветы",
+    "ymit": 351,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Дарование льгот дворянству",
+    "ymit": 352,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Русско-Шведская война 1741-1743",
+    "ymit": 353,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Семилетняя война",
+    "ymit": 354,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Екатерина Первая. Создание Верховного Тайного Совета",
+    "ymit": 342,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Обстановка при Петре Втором",
+    "ymit": 343,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Экспедиция Беринга",
+    "ymit": 344,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Приход Анны Иоанновны к власти",
+    "ymit": 345,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Бироновщина",
+    "ymit": 346,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Внутренная политика Анны Иоанновной",
+    "ymit": 347,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Внешняя политика Анны Иоанновны",
+    "ymit": 348,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Азовские походы",
+    "ymit": 328,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Великое посольство",
+    "ymit": 329,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Северная война",
+    "ymit": 333,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Каспийский и Персидский поход",
+    "ymit": 334,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Детство Петра 1",
+    "ymit": 327,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Азовские походы",
+    "ymit": 328,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Великое посольство",
+    "ymit": 329,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Стрелецкий бунт",
+    "ymit": 330,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Рекрутская реформа",
+    "ymit": 331,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Европеизация при Петре Первом",
+    "ymit": 332,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Социально-экономические реформы",
+    "ymit": 335,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Административные реформы",
+    "ymit": 336,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Военные реформы",
+    "ymit": 337,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Вопрос о престолонаследии",
+    "ymit": 338,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Особенности культуры 17 века",
+    "ymit": 319,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Литература 17 века",
+    "ymit": 320,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Архитектура 17 века",
+    "ymit": 321,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Образование 17 века",
+    "ymit": 322,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "6 веб",
+    "name_ymit": "Живопись 17 века",
+    "ymit": 323,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Семилетняя война",
+    "ymit": 354,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Личность Петра III",
+    "ymit": 355,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Петербургский мир",
+    "ymit": 356,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Начало секуляризации церковных имуществ",
+    "ymit": 357,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Манифест о вольности дворянству",
+    "ymit": 358,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Причины недовольства Петром 3. Дворцовый переворот 1762",
+    "ymit": 359,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Личность Екатерины Второй",
+    "ymit": 401,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Экономика при Екатерине II",
+    "ymit": 402,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Реформы Екатерины II",
+    "ymit": 403,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Просвещенный абсолютизм",
+    "ymit": 404,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Уложенная комиссия",
+    "ymit": 405,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Жалованные грамоты дворянству и городам",
+    "ymit": 406,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "7 веб",
+    "name_ymit": "Пугачевщина",
+    "ymit": 408,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "8 веб",
+    "name_ymit": "Французская революция XVIII в",
+    "ymit": 907,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "8 веб",
+    "name_ymit": "Всемирная история XVIII века",
+    "ymit": 906,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "8 веб",
+    "name_ymit": "Война за независимость британских колоний в Северной Америке и образование США",
+    "ymit": 908,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "9 веб",
+    "name_ymit": "Русско-турецкая война 1768-1774",
+    "ymit": 409,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "9 веб",
+    "name_ymit": "Присоединение Крыма",
+    "ymit": 410,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "9 веб",
+    "name_ymit": "Георгиевский трактат с Грузией",
+    "ymit": 411,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "9 веб",
+    "name_ymit": "Русско-турецкая война 1787-1791",
+    "ymit": 412,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "9 веб",
+    "name_ymit": "Русско-шведская война 1788-1790",
+    "ymit": 413,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "9 веб",
+    "name_ymit": "Разделы Речи Посполитой",
+    "ymit": 414,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "9 веб",
+    "name_ymit": "Дипломатия Екатерины II",
+    "ymit": 415,
+    "insight": 1
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Особенности культуры 17 века",
+    "ymit": 319,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Литература 17 века",
+    "ymit": 320,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Архитектура 17 века",
+    "ymit": 321,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Образование 17 века",
+    "ymit": 322,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Живопись 17 века",
+    "ymit": 323,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Детство Петра 1",
+    "ymit": 327,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Азовские походы",
+    "ymit": 328,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Великое посольство",
+    "ymit": 329,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Стрелецкий бунт",
+    "ymit": 330,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Рекрутская реформа",
+    "ymit": 331,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Европеизация при Петре Первом",
+    "ymit": 332,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Социально-экономические реформы",
+    "ymit": 335,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Административные реформы",
+    "ymit": 336,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Военные реформы",
+    "ymit": 337,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Вопрос о престолонаследии",
+    "ymit": 338,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Азовские походы",
+    "ymit": 328,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Великое посольство",
+    "ymit": 329,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Северная война",
+    "ymit": 333,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Каспийский и Персидский поход",
+    "ymit": 334,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Екатерина Первая. Создание Верховного Тайного Совета",
+    "ymit": 342,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Обстановка при Петре Втором",
+    "ymit": 343,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Экспедиция Беринга",
+    "ymit": 344,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Приход Анны Иоанновны к власти",
+    "ymit": 345,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Бироновщина",
+    "ymit": 346,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Внутренная политика Анны Иоанновной",
+    "ymit": 347,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Внешняя политика Анны Иоанновны",
+    "ymit": 348,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Причины дворцового переворота 1741",
+    "ymit": 349,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Личность Елизаветы Петровны",
+    "ymit": 350,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Экономическая политика Елизаветы",
+    "ymit": 351,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Дарование льгот дворянству",
+    "ymit": 352,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Русско-Шведская война 1741-1743",
+    "ymit": 353,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Семилетняя война",
+    "ymit": 354,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Семилетняя война",
+    "ymit": 354,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Личность Петра III",
+    "ymit": 355,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Петербургский мир",
+    "ymit": 356,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Начало секуляризации церковных имуществ",
+    "ymit": 357,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Манифест о вольности дворянству",
+    "ymit": 358,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Причины недовольства Петром 3. Дворцовый переворот 1762",
+    "ymit": 359,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Личность Екатерины Второй",
+    "ymit": 401,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Экономика при Екатерине II",
+    "ymit": 402,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Реформы Екатерины II",
+    "ymit": 403,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Просвещенный абсолютизм",
+    "ymit": 404,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Уложенная комиссия",
+    "ymit": 405,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Жалованные грамоты дворянству и городам",
+    "ymit": 406,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Пугачевщина",
+    "ymit": 408,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Французская революция XVIII в",
+    "ymit": 907,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Всемирная история XVIII века",
+    "ymit": 906,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Война за независимость британских колоний в Северной Америке и образование США",
+    "ymit": 908,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Русско-турецкая война 1768-1774",
+    "ymit": 409,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Присоединение Крыма",
+    "ymit": 410,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Георгиевский трактат с Грузией",
+    "ymit": 411,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Русско-турецкая война 1787-1791",
+    "ymit": 412,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Русско-шведская война 1788-1790",
+    "ymit": 413,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Разделы Речи Посполитой",
+    "ymit": 414,
+    "insight": 0
+}, {
+    "discipline": "ist",
+    "appointment": "10c",
+    "teacher": "ravich",
+    "webinar": "10 веб",
+    "name_ymit": "Дипломатия Екатерины II",
+    "ymit": 415,
+    "insight": 0
+}]
